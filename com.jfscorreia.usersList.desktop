@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Utilizadores ligados
+Comment=Mostra quem está conectado ao sistema
+Exec=gnome-w-viewer
+Icon=com.jfscorreia.usersList
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;Monitor;
+StartupNotify=true
